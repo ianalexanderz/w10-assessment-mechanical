@@ -2,3 +2,42 @@ No code editor, no python interpreter, no Google!
 Show what you know!
 
 # Your answers here:
+
+# 1
+items = { 'book1': 'Code', 'book2': '9 Algorithms That Changed The Future'} ✅
+
+# 2
+def add_numbers(num1, num2):
+    return num1 + num2 ✅
+
+# 3
+pet_msg = f'There are {x} cats and {y} dogs.'.format(x=cats, y=dogs) ✅
+
+# 4
+def more_cats_or_dogs(cats, dogs):
+    if(cats > dogs):
+        return cats
+    else(dogs > cats):
+        return dogs ✅
+
+(ternay option w/ different bracket stylings)
+return 'cats' if cats > dogs else dogs
+return 'cats' (if cats > dogs) else dogs
+return 'cats' (if (cats > dogs)) else dogs
+
+
+# 5
+class Cat:
+    def __init__(self, name, age)
+        self.name = name
+        self.age = age ✅
+
+# 6
+my_cat = Cat('felix', 1)
+
+a_cat = Cat()
+print(f'My {my_cat.name} is {my_cat.age} years old')) ✅
+
+7/7 - 100%
+Good Job 👍🏻 
+You are not a complete moron
